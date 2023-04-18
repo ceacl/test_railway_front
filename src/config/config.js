@@ -1,0 +1,2 @@
+export const API_HOST = process.env.API_HOST || "https://tight-cod-20.hasura.app/api"
+export const SECRET_KEY = process.env.SECRET_KEY || '3UIu1QpdjdXsOwFOZSE7dkKnaSHnhvghdpapqAbZ7l6NZmcFgrmXKcQRg3ETcQva';
